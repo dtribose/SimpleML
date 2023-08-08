@@ -1,4 +1,4 @@
-# ML
+# Simple ML
 Teaching ML by Example
 
 ## Lesson-01
